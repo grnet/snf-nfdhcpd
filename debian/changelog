@@ -1,3 +1,9 @@
+nfdhcpd (0.12.4-1~wheezy) wheezy; urgency=low
+
+  * Fix IPv6 Router Solicitaion replies
+
+ -- Nikos Skalkotos <skalkoto@grnet.gr>  Tue, 27 Sep 2016 11:28:58 +0300
+
 nfdhcpd (0.12.3-1~wheezy) wheezy; urgency=low
 
   * Some changes in logging format
@@ -106,6 +112,7 @@ nfdhcpd (0.1) unstable; urgency=low
   * Initial Release.
 
  -- Apollon Oikonomopoulos <apollon@noc.grnet.gr>  Mon, 15 Nov 2010 12:42:53 +0200
+
 
 
 
