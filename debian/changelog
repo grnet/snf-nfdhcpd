@@ -1,3 +1,9 @@
+nfdhcpd (0.12.4-2~jessie) jessie; urgency=medium
+
+  * Repack to increase the debian version
+
+ -- Nikos Skalkotos <skalkoto@grnet.gr>  Tue, 10 Jan 2017 15:55:29 +0200
+
 nfdhcpd (0.12.4-1~jessie) jessie; urgency=medium
 
   * New upstream version
@@ -118,6 +124,7 @@ nfdhcpd (0.1) unstable; urgency=low
   * Initial Release.
 
  -- Apollon Oikonomopoulos <apollon@noc.grnet.gr>  Mon, 15 Nov 2010 12:42:53 +0200
+
 
 
 
