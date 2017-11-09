@@ -1,6 +1,9 @@
 nfdhcpd
 =======
 
+**WARNING:** This repository has been deprecated in favor of
+[nfdhcpd](https://github.com/grnet/nfdhcpd/).
+
 Overview
 --------
 
